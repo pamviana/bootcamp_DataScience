@@ -1,1 +1,1 @@
-# bootcamp_DataScience
+# Bootcamp - Applied Data Science
